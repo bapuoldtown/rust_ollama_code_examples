@@ -1,0 +1,8 @@
+# Ignore the target directory
+
+target/
+
+# Ignore log files
+*.log
+
+# Add any other files or directories you want to ignore here
